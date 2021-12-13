@@ -1,0 +1,1 @@
+Use developer tool to test your layout responsiveness
