@@ -106,11 +106,9 @@ a.active,a:hover{
     }
 }
 
-.bannerContainer {
-  margin-top: -15px;
-}
 
-.bodyContainer {
-  background-color: sandybrown;
-}
 
+/* Banner image Bar style */
+.bannerDiv{
+  margin-top: 100px;
+}
